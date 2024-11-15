@@ -1,3 +1,2 @@
-- Hi! My name is Nox!
-- I am a 17 year old trans girl trying to live my best life.
-- I plan on making a professional GitHub later which will be in my socials.
+[![MasterHead](https://github.com/user-attachments/assets/d4d50640-a656-4439-9b4f-cddb51fcce0b)
+(your GitHub link)
